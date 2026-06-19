@@ -1,5 +1,5 @@
 # Lizenzierte Rohdaten – nicht öffentlich teilen
-\data\raw
+data/raw/
 
 # Python-spezifisch
 __pycache__/
