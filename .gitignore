@@ -1,0 +1,12 @@
+# Lizenzierte Rohdaten – nicht öffentlich teilen
+C:\Users\david\OneDrive\Desktop\IWW\6.Semester\Seminar Bachelorarbeit\Bachelorarbeit\ReproductionPackage\data\raw
+
+# Python-spezifisch
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Sonstiges
+.DS_Store
